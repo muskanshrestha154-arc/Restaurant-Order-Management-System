@@ -1,0 +1,14 @@
+Customer: jkl | Phone: 9876543216
+Mango Juice x6 = Rs 1320.0
+Mutton Curry x6 = Rs 4200.0
+Subtotal: Rs 5520.0
+Delivery: Rs 0.0
+Total: Rs 5520.0
+------------------------------------
+Customer: hilo | Phone: 9876543213
+Mixed Fruit Juice x5 = Rs 1250.0
+Chicken Lollipop x3 = Rs 1200.0
+Subtotal: Rs 2450.0
+Delivery: Rs 0.0
+Total: Rs 2450.0
+--------------------------------------
