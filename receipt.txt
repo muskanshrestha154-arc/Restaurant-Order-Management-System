@@ -12,3 +12,9 @@ Subtotal: Rs 2450.0
 Delivery: Rs 0.0
 Total: Rs 2450.0
 --------------------------------------
+Customer: saraswati | Phone: 9709071998
+Paneer Curry x2 = Rs 700.0
+Subtotal: Rs 700.0
+Delivery: Rs 100.0
+Total: Rs 800.0
+--------------------------------------
