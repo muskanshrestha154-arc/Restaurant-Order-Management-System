@@ -2,3 +2,5 @@ Order ID: 1 | Items: Pizza, Chicken Biryani, Burger, Chicken Biryani, Pizza, Bur
 Order ID: 1 | Items: Chicken Biryani, Pizza, Burger, | Total: Rs 1100.0
 Order ID: 1 | Items: Pizza, Chicken Biryani, Burger, | Total: Rs 1100.0
 Order ID: 1 | Items: Pizza, Pizza, Chicken Biryani, Chicken Biryani, Burger, | Total: Rs 1950.0
+Order ID: 1 | Items: Ice Cream, | Final Total: Rs 150.0
+Order ID: 1 | Items: Veg Pizza, Cold Drink, Ice Cream, Cold Drink, Ice Cream, Pasta, Burger, Pasta, | Final Total: Rs 1845.0
